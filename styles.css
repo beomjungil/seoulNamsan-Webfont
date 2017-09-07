@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'seoulNamsan';
+  src: url('seoulNamsan.eot?#iefix') format('embedded-opentype'),  url('seoulNamsan.otf')  format('opentype'),
+	     url('seoulNamsan.woff') format('woff'), url('seoulNamsan.ttf')  format('truetype'), url('seoulNamsan.svg#seoulNamsan') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
