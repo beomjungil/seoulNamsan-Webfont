@@ -1,8 +1,8 @@
 
 @font-face {
   font-family: 'seoulNamsan';
-  src: url('https://cdn.rawgit.com/kattergil/seoulNamsan-Webfont/ce37956e/seoulNamsan.eot?#iefix') format('embedded-opentype'),  url('https://cdn.rawgit.com/kattergil/seoulNamsan-Webfont/ce37956e/seoulNamsan.otf')  format('opentype'),
-	     url('https://cdn.rawgit.com/kattergil/seoulNamsan-Webfont/ce37956e/seoulNamsan.woff') format('woff'), url('https://cdn.rawgit.com/kattergil/seoulNamsan-Webfont/ce37956e/seoulNamsan.ttf')  format('truetype'), url('https://cdn.rawgit.com/kattergil/seoulNamsan-Webfont/ce37956e/seoulNamsan.svg#seoulNamsan') format('svg');
+  src: url('https://cdn.jsdelivr.net/gh/kattergil/seoulNamsan-Webfont@ce37956e/seoulNamsan.eot?#iefix') format('embedded-opentype'),  url('https://cdn.rawgit.com/kattergil/seoulNamsan-Webfont/ce37956e/seoulNamsan.otf')  format('opentype'),
+	     url('https://cdn.rawgit.com/kattergil/seoulNamsan-Webfont/ce37956e/seoulNamsan.woff') format('woff'), url('https://cdn.rawgit.com/kattergil/seoulNamsan-Webfont/ce37956e/seoulNamsan.ttf')  format('truetype'), url('https://cdn.jsdelivr.net/gh/kattergil/seoulNamsan-Webfont@ce37956e/seoulNamsan.svg#seoulNamsan') format('svg');
   font-weight: normal;
   font-style: normal;
 }
